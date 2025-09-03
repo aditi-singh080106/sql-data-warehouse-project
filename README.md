@@ -1,5 +1,5 @@
 # sql-data-warehouse-project
-Building a moern data warehouse with MySQL , including ETL processes , data moddeling and analytics.
+Building a moern data warehouse with MySQL , including ETL processes , data modeling and analytics.
 
 # Data Warehouse and Analytics Project 
 Welcome to the  **Data Warehouse and Analytics Project** Repository! 🚀
